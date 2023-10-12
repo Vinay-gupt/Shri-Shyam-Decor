@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Shri-Shyam-Decor/static/css/main.c5c7147b.css",
-    "main.js": "/Shri-Shyam-Decor/static/js/main.ac5c0d5b.js",
+    "main.js": "/Shri-Shyam-Decor/static/js/main.f43138b2.js",
     "static/js/787.c9949301.chunk.js": "/Shri-Shyam-Decor/static/js/787.c9949301.chunk.js",
     "index.html": "/Shri-Shyam-Decor/index.html",
     "main.c5c7147b.css.map": "/Shri-Shyam-Decor/static/css/main.c5c7147b.css.map",
-    "main.ac5c0d5b.js.map": "/Shri-Shyam-Decor/static/js/main.ac5c0d5b.js.map",
+    "main.f43138b2.js.map": "/Shri-Shyam-Decor/static/js/main.f43138b2.js.map",
     "787.c9949301.chunk.js.map": "/Shri-Shyam-Decor/static/js/787.c9949301.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c5c7147b.css",
-    "static/js/main.ac5c0d5b.js"
+    "static/js/main.f43138b2.js"
   ]
 }
